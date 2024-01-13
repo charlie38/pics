@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Docker
+This project has been dockerized!<br>
+You can build the image and run the container by simply typing:<br>
+`$ docker-compose up -d --build`<br>
+Then, go to [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
